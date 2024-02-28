@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://blog.casebook.net/hubfs/58879-multitasking-woman.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kamalpreet KAUR</h1>
 <h3 align="center">Passionate and curious about new challenges that comes in my way ! I am a Software Engineer from India.</h3>
 <img align="right" alt="Coding" width="400" src="[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
