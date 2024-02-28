@@ -6,7 +6,9 @@
  
 - 📫 How to reach me **kamalpreetcor@gmail.com**
 - ⚡ Languages I can speak: **English, French , Hindi , Punjabi **
-<h3 align="center">Passionate and curious about new challenges that comes in my way ! I am a Software Engineer from India.</h3>
+<h4 align="center">Passionate and curious about new challenges that comes on my way ! 
+</h4>
+ 🌱 I am a Web Developer |⚡Web Desiner UX/UI | 📫 Project Coordinator | 💬 Technical Support Engineer | 🔭 Community Manager |  📝 Content Creator from India, living in France .</h3>
 - 🔭 I’m currently working on [Youngraduates](In process)
 
 - 🌱 I’m currently learning **AWS Solution Architect**
