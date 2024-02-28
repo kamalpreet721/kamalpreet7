@@ -20,7 +20,7 @@
 - 💬 Ask me about **Project Management skills , Technical Support Engineer Work**
 
 - 📫 How to reach me **Gmail - kamalpreetcor@gmail.com**
-**Linkedin  - https://www.linkedin.com/in/kamalpreet-kaur-971581173/**
+- 📫 How to reach me **Linkedin  - https://www.linkedin.com/in/kamalpreet-kaur-971581173/**
 
 - ⚡ Fun fact **I love travelling , Reading books and Easy to communicate**
 
