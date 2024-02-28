@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/https://medium.com/@kamalpreetcor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@kamalpreetcor" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@kamalpreetcor" target="blank"><img align="center" src="https://medium.com/@kamalpreetcor" alt="https://medium.com/@kamalpreetcor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
