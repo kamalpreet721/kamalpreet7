@@ -1,7 +1,7 @@
 [![MasterHead](https://blog.casebook.net/hubfs/58879-multitasking-woman.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kamalpreet KAUR</h1>
 <h3 align="center">Passionate and curious about new challenges that comes in my way ! I am a Software Engineer from India.</h3>
-<img align="right" alt="Coding" width="400" src="[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="right" alt="Coding" width="200" src="[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kamalpreet KAUR</h1>
 <h3 align="center">Passionate and curious about new challenges that comes in my way ! I am a Software Engineer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif")
