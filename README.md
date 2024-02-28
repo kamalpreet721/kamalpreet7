@@ -1,7 +1,7 @@
-[![MasterHead](https://blog.casebook.net/hubfs/58879-multitasking-woman.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kamalpreet KAUR</h1>
 <h3 align="center">Passionate and curious about new challenges that comes in my way ! I am a Software Engineer from India.</h3>
-<img align="right" alt="Coding" width="300" src="[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif")
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalpreet721&label=Profile%20views&color=0e75b6&style=flat" alt="kamalpreet721" /> </p>
 
 - 🔭 I’m currently working on [Youngraduates](In process)
@@ -26,14 +26,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kamalpreet KAUR"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kamalpreet KAUR" /></a><a href="https://ko-fi.com/Kamalpreet"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Kamalpreet" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalpreet721&show_icons=true&locale=en&layout=compact" alt="kamalpreet721" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalpreet721&show_icons=true&locale=en" alt="kamalpreet721" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalpreet721&" alt="kamalpreet721" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalpreet721&label=Profile%20views&color=0e75b6&style=flat" alt="kamalpreet721" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalpreet721&show_icons=true&locale=en&layout=compact" alt="kamalpreet721" /></p>
 
