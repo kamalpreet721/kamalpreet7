@@ -22,7 +22,7 @@
 - 📫 How to reach me **Gmail - kamalpreetcor@gmail.com**
 - 📫 How to reach me **Linkedin  - https://www.linkedin.com/in/kamalpreet-kaur-971581173/**
 
-- ⚡ Fun fact **I love travelling , Reading books and Easy to communicate**
+- ⚡ Fun fact **I love travelling , Reading books , 🔭 Photographer and Learning Foreign Languages & culture **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
