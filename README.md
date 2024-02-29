@@ -7,8 +7,8 @@
 - 📫 How to reach me **kamalpreetcor@gmail.com**
 - ⚡ Languages I can speak: **English, French , Hindi , Punjabi **
 - 🌱 I am from India & Living in France
-<h4 align="center">Passionate and curious about new challenges that comes on my way ! 
-</h4>
+<h4 align="center"> Learn & Curious about New Technologies & Challenging myself :D </h4>
+
  🌱 I am a Web Developer |⚡Web Desiner UX/UI | 📫 Project Coordinator |💬 Technical Support Engineer | 🔭 Community Manager |  📝 Content Creator </h3>
  
 - 🔭 I’m currently working on [Youngraduates](In process)
