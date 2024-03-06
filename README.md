@@ -8,8 +8,7 @@
 - ⚡ Languages I can speak: **English, French , Hindi , Punjabi **
 - 🌱 I am from India & Living in France
 <h4 align="center"> Learn & Curious about New Technologies & Challenging myself :D </h4>
-
-<h3 align="center">An Enthusiast Cloud Engineer from India</h3>
+<h3 align="center">An Enthusiast Cloud Engineer</h3>
 
 <h1></h1>
 
