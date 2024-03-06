@@ -26,16 +26,6 @@
 
 <h1></h1>
 
-<h3 align="center">Languages and Tools:</h3>
-
-<h1></h1>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri17-pro&show_icons=true&locale=en&theme=radical" alt="gauri17-pro" height="358"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauri17-pro&show_icons=true&locale=en&theme=radical" alt="gauri17-pro" width="420"/>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauri17-pro&theme=radical" alt="gauri17-pro" width="420" />
-
  🌱 I am a Web Developer |⚡Web Desiner UX/UI | 📫 Project Coordinator |💬 Technical Support Engineer | 🔭 Community Manager |  📝 Content Creator </h3>
  
 - 🔭 I’m currently working on [Youngraduates](In process)
