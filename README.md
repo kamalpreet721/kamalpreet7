@@ -16,8 +16,6 @@
 
 🛠️ **Linkedin Community Builder 🔄**  https://www.linkedin.com/in/kamalpreet-kaur-971581173/ 
 
-📝 I write articles on [Medium](https://medium.com/@kamalpreetcor)
-
 🔭 Exploring the world of tech & content writing | Love to generate traffic by creating content & boost the post | Digital Marketer
 
 </div>
