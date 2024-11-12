@@ -7,37 +7,37 @@
 - 📫 How to reach me **kamalpreetcor@gmail.com**
 - ⚡ Languages I can speak: **English, French , Hindi , Punjabi **
 - 🌱 I am from India & Living in France
-<h4 align="center"> Learn & Curious about New Technologies & Challenging myself </h4>
+<h4 align="center"> Learn & Be Curicous about New Technologies & Challenging myself </h4>
 <h1></h1>
 
 <div align="center">
 
-💻 I’m a **IT Content Writer|Technical support Engineer & Cloud Enthusiast**
+💻 I’m a ** Senior IT Content Writer|Technical support Engineer & AWS Cloud Enthusiast**
 
-🛠️ **Linkedin Community Builder 🔄**
+🛠️ **Linkedin Community Builder 🔄**  https://www.linkedin.com/in/kamalpreet-kaur-971581173/ 
 
 📝 I write articles on [Medium](https://medium.com/@kamalpreetcor)
 
-🔭 Exploring content creation | Love to generate traffic by creating content & boost the post | Digital Marketer
+🔭 Exploring the world of tech & content writing | Love to generate traffic by creating content & boost the post | Digital Marketer
 
 </div>
 
 <h1></h1>
-
- 🌱 I am a Web Developer |⚡Web Desiner UX/UI | 📫 Project Coordinator |💬 Technical Support Engineer | 🔭 Community Manager |  📝 Content Creator </h3>
+Past Experiences 
+ 🌱 I was a web/App Developer |⚡Web Desiner UX/UI | 📫 Project Coordinator |💬 Technical Support Engineer | 🔭 Community Manager |  📝 IT Content Writer </h3>
  
 - 🔭 I’m currently working on [Youngraduates](In process)
 
-- 🌱 I’m currently learning **AWS Solution Architect**
+- 🌱 I’m currently learning **AWS Solution Architect & AI Practioner**
 
-- 📝 I regularly write articles on [https://medium.com/me/stats?publishedAt=DESC](https://medium.com/me/stats?publishedAt=DESC)
+- 📝 I regularly write articles on https://medium.com/@kamalpreetcor
 
-- 💬 Ask me about **Project Management skills , Technical Support Engineer Work**
+- 💬 Ask me about **Project Management skills , Content Writing , Technical Support Engineer Work**
 
 - 📫 How to reach me **Gmail - kamalpreetcor@gmail.com**
 - 📫 How to reach me **Linkedin  - https://www.linkedin.com/in/kamalpreet-kaur-971581173/**
 
-- ⚡ Fun fact **I love travelling , Reading books , 🔭 Photographer and Learning Foreign Languages & culture **
+- ⚡ Fun fact **I love travelling , Reading books , Writing 🔭 Photographer and Learning Foreign Languages & culture **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
